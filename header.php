@@ -8,9 +8,10 @@ function focuson()
  <div class="nav-container" style="padding-top:-10px;">
     <div class="nav">
 	<marquee behavior="scroll" direction="right" scrollamount="1">
-    <img src="image/truck.png" style="margin-left:500px"/>
-    <img src="image/traveller.png" style="margin-left:300px"/>
-    <img src="image/tanker1.png" style="margin-left:300px"/>
+    <img src="image/1.png"/>
+    <img src="image/2.png"/>
+	<img src="image/4.png"/>
+    <img src="image/3.png"/>
 	   </marquee>
   </div>
 	</div>
